@@ -10,6 +10,15 @@ I am passionate about advancing in the field of web development and am ready to 
 
 - This is my [Notion portfolio](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
+
+<p align="left">
+<a href="https://github.com/KhoirulHusein">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 <!--
 **KhoirulHusein/KhoirulHusein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
