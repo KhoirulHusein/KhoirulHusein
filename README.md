@@ -8,7 +8,7 @@ Apart from that, I also have a great interest in understanding the principles of
 
 I am passionate about advancing in the field of web development and am ready to take on the new challenges that arise. I believe that with commitment, hard work, and creativity, I can make a meaningful contribution to the technology industry.
 
-- This is my [notion](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4).
+- This is my [Notion portfolio](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
 <!--
 **KhoirulHusein/KhoirulHusein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
