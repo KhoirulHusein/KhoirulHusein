@@ -1,22 +1,11 @@
 ### Hi there 👋
 
-I am **Khoirul Husein**, an active student of informatics engineering at Pancasila University who is passionate and creative. I have a strong passion for web development and love creating new things in the digital world. My seriousness in this field is proven by obtaining **national certification** as a junior web developer that is recognized by the National Professional Certification Agency (BNSP).
+I am **Khoirul Husein** you can call me **irul**, currently irul is studying at pancasila university majoring in informatics engineering. Irul is highly motivated to pursue a career as a **Front End Engineer**. This interest encouraged him to continue to deepen his knowledge in web development through various trainings and courses outside the university environment. In addition, Irul also actively hones his design-related soft skills through self-study, experience as a practicum assistant, and obtaining national certifications.
 
-My solid skills in **HTML, CSS, and JavaScript** allow me to design attractive and interactive websites. I always try to learn and apply the latest web technologies so that I can create a great user experience.
+With his design-oriented skills and creativity, Irul is able to utilize a number of development tools, including HTML, CSS, JavaScript, and React.js. Currently, Irul is looking for opportunities to grow in the field of Front End Engineer and is committed to strengthening his skills in building **reusable code**.
 
-Apart from that, I also have a great interest in understanding the principles of effective user interface design and creating responsive websites. I love to combine visual aesthetics with functionality to create engaging and satisfying user experiences.
-
-I am passionate about advancing in the field of web development and am ready to take on the new challenges that arise. I believe that with commitment, hard work, and creativity, I can make a meaningful contribution to the technology industry.
-
-- This is my [Notion portfolio](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4).
+- This is my [Portofolio[](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4](https://www.figma.com/proto/vUn5OTJEbwzCwIlZTzCNC1/Portofolio-MSIB?node-id=3-282&scaling=scale-down-width)).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
-
-<p align="left">
-<a href="https://github.com/KhoirulHusein">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 <!--
