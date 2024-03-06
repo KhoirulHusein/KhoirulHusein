@@ -4,7 +4,7 @@ I am **Khoirul Husein** you can call me **irul**, currently irul is studying at 
 
 With his design-oriented skills and creativity, Irul is able to utilize a number of development tools, including HTML, CSS, JavaScript, and React.js. Currently, Irul is looking for opportunities to grow in the field of Front End Engineer and is committed to strengthening his skills in building **reusable code**.
 
-- This is my [Portofolio[](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4](https://www.figma.com/proto/vUn5OTJEbwzCwIlZTzCNC1/Portofolio-MSIB?node-id=3-282&scaling=scale-down-width)).
+- This is my [Portofolio](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4](https://www.figma.com/proto/vUn5OTJEbwzCwIlZTzCNC1/Portofolio-MSIB?node-id=3-282&scaling=scale-down-width)).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
 
 
