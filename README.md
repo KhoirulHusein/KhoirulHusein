@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi There 👋🏻
 
-I am **Khoirul Husein** you can call me **irul**, currently irul is studying at pancasila university majoring in informatics engineering. Irul is highly motivated to pursue a career as a **Front End Engineer**. This interest encouraged him to continue to deepen his knowledge in web development through various trainings and courses outside the university environment. In addition, Irul also actively hones his design-related soft skills through self-study, experience as a practicum assistant, and obtaining national certifications.
+I am **Khoirul Husein** usually called **irul**, currently studying at Pancasila University majoring in Informatics Engineering. Irul has a high motivation to have a career as a **Front End Developer**. This interest encourages him to continue to deepen his knowledge in the field of front-end developers through various internships, training and courses outside the university environment. In addition, Irul is also actively honing his design-related soft skills to support his career.
 
-With his design-oriented skills and creativity, Irul is able to utilize a number of development tools, including HTML, CSS, JavaScript, and React.js. Currently, Irul is looking for opportunities to grow in the field of Front End Engineer and is committed to strengthening his skills in building **reusable code**.
-
-- This is my [Portofolio](https://khoirulhusein.notion.site/My-Portofolio-b49b3d95db464f7a858f80c11a2ee332?pvs=4](https://www.figma.com/proto/vUn5OTJEbwzCwIlZTzCNC1/Portofolio-MSIB?node-id=3-282&scaling=scale-down-width)).
+- This is my [Portofolio](https://khworks.vercel.app/).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
 
+🌧️ Fun fact: irul is a Pluviophile
 
 <!--
 **KhoirulHusein/KhoirulHusein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
