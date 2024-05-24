@@ -5,8 +5,6 @@ I am **Khoirul Husein** usually called **irul**, currently studying at Pancasila
 - This is my [Portofolio](https://khworks.vercel.app/).
 - This is my [Linkedin](https://www.linkedin.com/in/khoirul-husein/).
 
-🌧️ Fun fact: irul is a Pluviophile
-
 <!--
 **KhoirulHusein/KhoirulHusein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
